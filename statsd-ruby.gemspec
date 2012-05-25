@@ -27,6 +27,7 @@ Gem::Specification.new do |s|
   ]
   s.homepage = %q{http://github.com/reinh/statsd}
   s.licenses = ["MIT"]
+  s.summary = "statsd for ruby"
   #s.require_paths = ["lib"]
 end
 
